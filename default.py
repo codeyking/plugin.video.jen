@@ -21,11 +21,11 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "http://"  # url of the root xml file
-__builtin__.tvdb_api_key = ""  # tvdb api key
-__builtin__.tmdb_api_key = ""  # tmdb api key
-__builtin__.trakt_client_id = ""  # trakt client id
-__builtin__.trakt_client_secret = ""  # trakt client secret
+root_xml_url = "http://uground.co.uk/ugaddon/mainindex.xml"  # url of the root xml file
+__builtin__.tvdb_api_key = "04DBD3A456FDA475"  # tvdb api key
+__builtin__.tmdb_api_key = "363cb2c1b347d9a6b5c3641374299a1a"  # tmdb api key
+__builtin__.trakt_client_id = "cd4115735836e7950abbc492dc883b1ed942f1b7e4605783816798f33882efa5"  # trakt client id
+__builtin__.trakt_client_secret = "684b3cd512fa1208ebf8e47f0e6ca6341d11ff9f77c4158144df9efb8516df45"  # trakt client secret
 
 
 import os
